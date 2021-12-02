@@ -1,0 +1,80 @@
+#head{
+    text-align: center;
+    background-color: chartreuse;
+    font-size: xxx-large;
+    color: red;
+    border: 3px solid black;
+    margin: 20px 350px 20px 350px;
+}
+#self {
+    float: right;
+}
+div p{
+    font-family: 'PecitaBook';
+   font-weight: normal;
+   font-style: normal;
+    font-size: 25px;
+    /*color: white;*/
+    float: revert;
+}
+span{
+    color: olive;
+    font-style: italic;
+
+}
+.my_self{
+    color: blue;
+    border: 2px dotted black;
+    padding: 10px;
+        margin: 0px 50% 0px 0px;
+
+}
+#sports p{
+    border: 4px double red;
+    background-color: yellow;
+    padding: 20px;
+    margin: 10px 5% 10px 5%;
+}
+.surya{
+    background: url("suryanamaskar.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+    font-size: 25px;
+    font-weight: bold ;
+    background-position: center;
+
+        border: 3px double black;
+    color: orange;
+    margin: 10px 35% 20px 35%;
+    padding: 30px;
+    text-align: center;
+}
+h1{
+    color: #871256;
+    padding: 20px;
+}
+#poll{
+    margin: 0 45px 0 0;
+
+}
+
+#abc li{
+    font-size:30px;
+    border: 3px dashed green;
+    color: rgba(204, 26, 235,1);
+    margin: 10px 35% 20px 35%;
+    padding: 6px;
+    text-align: center;
+}
+#ol{
+    border: 3px dashed green;
+    color: rgba(204, 26, 235,1);
+     font-size: x-large;
+    margin: 10px 70% 20px 5%;
+    /*padding: 30px;*/
+    /*text-align: center;*/
+
+}
+#ol ul{
+    color: blue;
+}
