@@ -1,0 +1,45 @@
+body{
+    background-color: #7FB3D5;
+}
+#body{
+    background-color: #00004d;
+    text-align: center;
+    border: 20px double white;
+    margin: 5% 20% 5% 20%;
+}
+h1,h2,label,p{
+    color: white;
+}
+#inbody{
+    margin: 30px 10px 10px 10px;
+}
+p{
+    font-family: 'CantoraOneRegular';
+   font-weight: normal;
+   font-style: normal;
+    margin: 0px 30px 20px 30px;
+}
+label{
+    font-size: large;
+}
+input{
+    width: 250px;
+    height: 30px;
+}
+#sub{
+    height: 75px;
+    width: 100px;
+    background-color: coral;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 15px ;
+}
+#img{
+    background-color: white;
+    margin: 5% 30% 5% 30%;
+}
+h1{
+    color: #00004d;
+    background-color: #7FB3D5;
+    margin: 2% 10% 2% 10%;
+}

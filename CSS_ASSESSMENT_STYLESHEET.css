@@ -1,0 +1,47 @@
+#hehe{
+    font-family: 'SputnikRegular';
+   font-weight: bold;
+   font-style: normal;
+    text-align: center;
+}
+td{
+    width: 100px;
+    height: 350px;
+}
+#one{
+    background-color: #E8F8F5;
+}
+#two{
+    background-color: #EAEDED;
+}
+#three {
+    background-color: #EAF2F8;
+}
+#four{
+    background-color: #D4E6F1;
+}
+#five{
+    background-color: #A9CCE3;
+}
+#six{
+    background-color: #7FB3D5;
+}
+#seven{
+    background-color: #5499C7;
+}#eight{
+    background-color: #2980B9;
+}#nine{
+    background-color: #2471A3;
+}#ten{
+    background-color: #1F618D;
+}#eleven{
+    background-color: #1A5276;
+}
+ #twelve{
+    background-color: #154360;
+}
+.spectrum{
+    /*padding: 10% 20% 10% 20%;*/
+    margin: auto;
+
+}

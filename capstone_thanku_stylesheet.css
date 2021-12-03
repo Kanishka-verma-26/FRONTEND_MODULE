@@ -1,0 +1,17 @@
+body{
+    background-color: #00004d;
+}
+h1,h3{
+    color: white;
+    text-align: center;
+}
+#b1{
+    border: 40px solid #7FB3D5;
+    margin: 15% 5% 15% 5%;
+}
+h1{
+    font-size: 3.7em;
+}
+h3{
+    font-size: 1.8em;
+}
