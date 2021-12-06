@@ -8,3 +8,8 @@ I updated my existing tagging html file with these concepts so that we can easil
 <h1>03-12-2021</h1>
 
 <h3>Hello... finally I completed my first seven modules of the couse and today I made the <u>spectrum</u> that was the assessment of CSS part 2 and I also made the <u>capstone project</u>.</h3>
+
+
+<h1>06-12-2021</h1>
+
+<h3> I tried to made duplicate website of https://www.tasteofhome.com/article/types-of-coffee/ using the concepts of html, css and bootstrap, along with this i created a sign up page for login and connected it to my website. And I also started my JS today and learnt some basic concepts of it.
