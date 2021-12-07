@@ -13,3 +13,8 @@ I updated my existing tagging html file with these concepts so that we can easil
 <h1>06-12-2021</h1>
 
 <h3> I tried to made duplicate website of https://www.tasteofhome.com/article/types-of-coffee/ using the concepts of html, css and bootstrap, along with this i created a sign up page for login and connected it to my website. And I also started my JS today and learnt some basic concepts of it.
+
+  <h1>07-12-2021</h1>
+
+<h3> Today I started JavaScript and completed the 9th section of my course and entered into the 10th, I learnt basic concepts of JS such as operators, control flow, while loop, for loop, and functions. I have also done few codes and attached them into the git.</h3>
+  
